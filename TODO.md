@@ -1,16 +1,23 @@
-
 # Goal
 Make *fun* chatbot like human.
 # TODO
 - Understand how CS20SI chatbot works
+  - train
+  - chat
+  - draw its model structure
+  - Post it to my blog
 - Make basic chatbot
+  - Very naive implmentation with the same data as CS20SI
+  - Compare the two bots
+  
 - Find a best way to record trial and error
   - model parameters (do we have to keep all the parameter files?)
   - How we construct model
   - Maybe tag or release?
   - Think what should be done while training? Read papers?
+- Tune model
+  - Make a list of tuning points
 - Make it work in English
-  - hige
 - Make it work in Japanese
 - Make tweet bot
 - Make deploy process for tweet bot
