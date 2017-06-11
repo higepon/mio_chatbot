@@ -7,6 +7,8 @@ Make *fun* chatbot like human.
   - chat
   - draw its model structure
   - Post it to my blog
+  - Read improvement section of her document
+  - Make improvement plan here
 - Make basic chatbot
   - Very naive implmentation with the same data as CS20SI
   - Compare the two bots
