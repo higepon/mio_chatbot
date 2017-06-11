@@ -5,7 +5,8 @@ Make *fun* chatbot like human.
   - 6/11 read her documents
   - 6/11 train
   - 6/11 chat
-  - draw its model structure
+  - 6/11 draw its model structure
+    - didn't draw, but here is pretty similar one
   - Post it to my blog
   - Read improvement section of her document
   - Make improvement plan here
