@@ -10,6 +10,7 @@ Make *fun* chatbot like human.
   - Read improvement section of her document
   - Make improvement plan here
 - Make basic chatbot
+  - Prepare pycharm env with python 3.3 and latest TensorFlow
   - Very naive implmentation with the same data as CS20SI
   - Compare the two bots
   
