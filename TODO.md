@@ -21,6 +21,7 @@ Make *fun* chatbot like human.
 - Tune model
   - Make a list of tuning points
   - BEAM search
+  - Re-read http://web.stanford.edu/class/cs20si/assignments/a3.pdf and make a list of todo again
 - Make it work in English
 - Make it work in Japanese
 - Make tweet bot
