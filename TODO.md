@@ -1,7 +1,7 @@
 # Goal
 Make *fun* chatbot like human.
 # TODO
-- Understand how CS20SI chatbot works
+- [done] Understand how CS20SI chatbot works
   - 6/11 read her documents
   - 6/11 train
   - 6/11 chat
@@ -11,7 +11,9 @@ Make *fun* chatbot like human.
   - 6/11 Read improvement section of her document
   - 6/11 Make improvement plan here
 - Make basic chatbot
-  - Prepare pycharm env with python 3.3 and latest TensorFlow
+  - 6/11 Prepare pycharm env with python 3.3 and latest TensorFlow
+  - Port data.py to Python3
+  - Write own train.py
   - Very naive implmentation with the same data as CS20SI
   - Compare the two bots
   - Probably rewrite it in [new seq2seq API](https://www.tensorflow.org/api_guides/python/contrib.seq2seq#Attention)
