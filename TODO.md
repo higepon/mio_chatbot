@@ -4,7 +4,7 @@ Make *fun* chatbot like human.
 - Understand how CS20SI chatbot works
   - 6/11 read her documents
   - 6/11 train
-  - chat
+  - 6/11 chat
   - draw its model structure
   - Post it to my blog
   - Read improvement section of her document
