@@ -25,3 +25,6 @@ Make *fun* chatbot like human.
 - Make tweet bot
 - Make deploy process for tweet bot
 - Make tweet bot available in cloud
+
+# random ideas
+- Can we use 2ch.net data?
