@@ -13,6 +13,7 @@ Make *fun* chatbot like human.
   - Prepare pycharm env with python 3.3 and latest TensorFlow
   - Very naive implmentation with the same data as CS20SI
   - Compare the two bots
+  - Probably rewrite it in [new seq2seq API](https://www.tensorflow.org/api_guides/python/contrib.seq2seq#Attention)
   
 - Find a best way to record trial and error
   - model parameters (do we have to keep all the parameter files?)
