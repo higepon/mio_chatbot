@@ -2,6 +2,7 @@
 Make *fun* chatbot like human.
 # TODO
 - Understand how CS20SI chatbot works
+  - read her documents
   - train
   - chat
   - draw its model structure
