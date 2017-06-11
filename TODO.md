@@ -20,6 +20,7 @@ Make *fun* chatbot like human.
   - Think what should be done while training? Read papers?
 - Tune model
   - Make a list of tuning points
+  - BEAM search
 - Make it work in English
 - Make it work in Japanese
 - Make tweet bot
