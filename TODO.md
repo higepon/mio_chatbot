@@ -13,6 +13,7 @@ Make *fun* chatbot like human.
 - Make basic chatbot
   - 6/11 Prepare pycharm env with python 3.3 and latest TensorFlow
   - Port data.py to Python3
+  - Investigate why data.py is so slow
   - Write own train.py
   - Very naive implmentation with the same data as CS20SI
   - Compare the two bots
