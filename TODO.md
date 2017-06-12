@@ -14,6 +14,7 @@ Make *fun* chatbot like human.
   - 6/11 Prepare pycharm env with python 3.3 and latest TensorFlow
   - Port data.py to Python3
     - 6/12 fix O(1) slowness
+    - Compare generated file with the original ones.
   - Investigate why data.py is so slow
   - Write own train.py
   - Very naive implmentation with the same data as CS20SI
