@@ -17,6 +17,9 @@ Make *fun* chatbot like human.
     - 6/12 Compare generated file with the original ones.
   - 6/12 Investigate why data.py is so slow
   - Write own train.py
+    - make an empty file
+    - commit it
+    - write model function
   - Very naive implmentation with the same data as CS20SI
   - Compare the two bots
   - Probably rewrite it in [new seq2seq API](https://www.tensorflow.org/api_guides/python/contrib.seq2seq#Attention)
