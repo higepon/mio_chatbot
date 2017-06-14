@@ -17,8 +17,10 @@ Make *fun* chatbot like human.
     - 6/12 Compare generated file with the original ones.
   - 6/12 Investigate why data.py is so slow
   - Write own train.py
-    - make an empty file
-    - commit it
+    - 6/13 make an empty file
+    - 6/13 commit it
+    - Make model
+    - Comment for each unknown lines
     - write model function
   - Very naive implmentation with the same data as CS20SI
   - Compare the two bots
