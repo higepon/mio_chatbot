@@ -19,6 +19,7 @@ Make *fun* chatbot like human.
   - Write own train.py
     - 6/13 make an empty file
     - 6/13 commit it
+    - Read https://www.tensorflow.org/install/migration
     - Make model
     - Comment for each unknown lines
     - write model function
