@@ -23,6 +23,7 @@ Make *fun* chatbot like human.
     - Make model
     - Comment for each unknown lines
     - write model function
+    - [here] See if it's easy to port the old chatbot to 0.1.0 using https://github.com/tensorflow/models/blob/master/tutorials/rnn/translate/seq2seq_model.py
   - Very naive implmentation with the same data as CS20SI
   - Compare the two bots
   - Probably rewrite it in [new seq2seq API](https://www.tensorflow.org/api_guides/python/contrib.seq2seq#Attention)
