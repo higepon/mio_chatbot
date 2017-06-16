@@ -11,6 +11,7 @@ Make *fun* chatbot like human.
   - 6/11 Read improvement section of her document
   - 6/11 Make improvement plan here
 - Make old chatbot compatible with tensorflow 1.0
+  - http://qiita.com/taroc/items/b9afd914432da08dafc8
   - Run it with old seq2seq model
   - Run it with new seq2seq model
   - train with very small data
