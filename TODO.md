@@ -10,6 +10,11 @@ Make *fun* chatbot like human.
   - 6/11 Post it to my blog
   - 6/11 Read improvement section of her document
   - 6/11 Make improvement plan here
+- Make old chatbot compatible with tensorflow 1.0
+  - Run it with old seq2seq model
+  - Run it with new seq2seq model
+  - train with very small data
+  - predict
 - Make basic chatbot
   - 6/11 Prepare pycharm env with python 3.3 and latest TensorFlow
   - 6/12 Port data.py to Python3
